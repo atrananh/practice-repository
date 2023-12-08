@@ -1,1 +1,1 @@
-# practive-repository
+# practice-repository
